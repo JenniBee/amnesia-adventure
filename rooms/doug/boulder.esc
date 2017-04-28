@@ -1,7 +1,7 @@
 :pick_up inv_board
 
-say player "Hey! There's a ladder under here!"
-say player "Oh, wait. That's right, I have a ladder under my bed!"
+say player "Weird! There's stairs under here that don't lead anywhere!"
+say player "Oh, wait. That's right, I have to climb the attic stairs to get to what I lost!"
 
 set_global i/inv_ladder true
 set_global i/inv_board false

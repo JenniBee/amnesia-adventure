@@ -1,3 +1,14 @@
+:use inv_key
+
+say player "Of course!  Use the stairs to get to the attic, and then use the key from the clock in the door!"
+
+set_global i/inv_ladder false
+set_global i/inv_key false
+
+cut_scene telon fade_out
+change_scene res://cutscenes/demo-ending/outro.tscn
+cut_scene telon fade_in
+
 :look
 
-say player "I remember I have a ladder under my bed at the rest home.  I can't forget that."
+say player "I remember I have to use the stairs to get what I am looking for.  I can't forget that."

@@ -9,7 +9,7 @@
 [ext_resource path="res://rooms/hub/hub.gd" type="Script" id=7]
 [ext_resource path="res://rooms/hub/sprites/doug-doll-jennibee.png" type="Texture" id=8]
 [ext_resource path="res://rooms/hub/sprites/clock-taekon.png" type="Texture" id=9]
-[ext_resource path="res://music/timely-tune-jenni.ogg" type="AudioStream" id=10]
+[ext_resource path="res://music/groovin-hub-jenni.ogg" type="AudioStream" id=10]
 
 [sub_resource type="NavigationPolygon" id=1]
 
